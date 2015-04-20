@@ -2,6 +2,7 @@
 
 void main()
 {
+	int a1;
 	printf("Hello World for Program 1");
-	printf("Change");
+	int b1;
 }
